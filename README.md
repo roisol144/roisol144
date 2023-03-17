@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roi Solomon</h1>
 <h3 align="center">A passionate Software Engineer from Israel.</h3>
 
-- 🔭 I’m currently working on **Various projects in Machine Learning :)**
+- 🔭 I’m currently **A Computer Science student :)**
 
-- 🌱 I’m currently learning **Machine Learning and Math.**
+- 🌱 I’m currently learning **Math and Math.**
 
-- 💬 Ask me about **Python, C, Selenium, React and Books.**
+- 💬 Ask me about **Python, C, React and Books.**
 
 - 📫 How to reach me **Find me on Linkedin**
 
