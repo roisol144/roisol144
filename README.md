@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Roi Solomon</h1>
-<h3 align="center">A passionate Software Engineer from Israel.</h3>
 
-- 🔭 I’m currently **A Computer Science student :)**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roi-solomon-rs777) 
 
-- 🌱 I’m currently learning **Math and Math.**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=roisol144&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roisol144&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roisol144&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **Python, C, React and Books.**
+---
+[![](https://visitcount.itsvg.in/api?id=roisol144&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **Find me on Linkedin**
-
-- ⚡ Fun fact **I'll take books with me to a remote island.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roi-solomon-rs777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roi solomon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5615617" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5615617" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
